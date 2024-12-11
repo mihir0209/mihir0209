@@ -1,4 +1,4 @@
-My name is MiHiR, I'm from Kolhapur
+My name is MiHiR, I'm from Kolhapur <br>
 Here goes something about me:
 - 🌱 I’m currently learning Python
 - ⚡ Fun fact: Fun
